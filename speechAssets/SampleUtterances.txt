@@ -1,0 +1,12 @@
+MotivationIntent a motivation
+MotivationIntent a quote
+MotivationIntent give me a quote
+MotivationIntent give me a quote
+MotivationIntent give me a motivation
+MotivationIntent give me some motivation
+MotivationIntent I need some motivation
+MotivationIntent I need motivation
+MotivationIntent start my day
+MotivationIntent tell me quote
+MotivationIntent tell me something
+MotivationIntent give me something
